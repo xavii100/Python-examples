@@ -1,3 +1,2 @@
 # Python-examples
-
-Ejemplos de python que he hecho para repasar 
+este repo es para almacenar ejemplos que he implementado en python 
